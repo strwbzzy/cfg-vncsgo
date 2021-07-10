@@ -14,7 +14,7 @@
 
 ## Hướng dẫn sử dụng
 
-- Git clone: `git clone https://github.com/strwbzzy/cfgcsgo.git`<br>
+- Git: `git clone https://github.com/strwbzzy/cfgcsgo.git`<br>
 - Hoặc 
 	- Copy paste content trong phần raw của các files trên đây
 		- Click vào file
