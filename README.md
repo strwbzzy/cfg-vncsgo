@@ -1,5 +1,3 @@
-# THE ULTIMATE CONFIG CSGO 
-
 ## Trước khi bắt đầu
 
 <ul>
